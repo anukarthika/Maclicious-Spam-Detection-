@@ -1,1 +1,1 @@
-# Maclicious-Spam-Detection-
+# Malicious-Spam-Detection-
